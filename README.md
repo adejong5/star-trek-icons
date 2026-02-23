@@ -12,4 +12,4 @@ A set of icon svgs from Star Trek. Some of these are hand drawn. Others are sour
 - Icons are available using "local:StarTrek/..." in the icon fields.
 
 # Disclaimer
-I am not affiliated in any way with any of the Star Trek creators or intellectual property owners. I have not and will never receive financial compensation for the use or distribution of this material. This material is for personal use only. All attributions are included in the xml inside each svg.  
+This project is a non-commercial fan production. *Star Trek* and all related marks, logos, and characters are solely owned by CBS Studios Inc. This fan production is not endorsed by, sponsored by, nor affiliated with CBS, Paramount Pictures, or any other *Star Trek* franchise. No commercial exhibition or distribution is permitted. No alleged independent rights will be asserted against CBS or Paramount Pictures. This work is intended for personal and recreational use only. All attributions to other creators are included as metadata inside each svg.  
